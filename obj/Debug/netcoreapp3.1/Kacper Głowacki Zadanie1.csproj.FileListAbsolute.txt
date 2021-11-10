@@ -1,0 +1,14 @@
+C:\Users\glowa1337\source\repos\Kacper Głowacki Zadanie1\bin\Debug\netcoreapp3.1\Kacper Głowacki Zadanie1.exe
+C:\Users\glowa1337\source\repos\Kacper Głowacki Zadanie1\bin\Debug\netcoreapp3.1\Kacper Głowacki Zadanie1.deps.json
+C:\Users\glowa1337\source\repos\Kacper Głowacki Zadanie1\bin\Debug\netcoreapp3.1\Kacper Głowacki Zadanie1.runtimeconfig.json
+C:\Users\glowa1337\source\repos\Kacper Głowacki Zadanie1\bin\Debug\netcoreapp3.1\Kacper Głowacki Zadanie1.runtimeconfig.dev.json
+C:\Users\glowa1337\source\repos\Kacper Głowacki Zadanie1\bin\Debug\netcoreapp3.1\Kacper Głowacki Zadanie1.dll
+C:\Users\glowa1337\source\repos\Kacper Głowacki Zadanie1\bin\Debug\netcoreapp3.1\Kacper Głowacki Zadanie1.pdb
+C:\Users\glowa1337\source\repos\Kacper Głowacki Zadanie1\obj\Debug\netcoreapp3.1\Kacper Głowacki Zadanie1.csproj.AssemblyReference.cache
+C:\Users\glowa1337\source\repos\Kacper Głowacki Zadanie1\obj\Debug\netcoreapp3.1\Kacper Głowacki Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glowa1337\source\repos\Kacper Głowacki Zadanie1\obj\Debug\netcoreapp3.1\Kacper Głowacki Zadanie1.AssemblyInfoInputs.cache
+C:\Users\glowa1337\source\repos\Kacper Głowacki Zadanie1\obj\Debug\netcoreapp3.1\Kacper Głowacki Zadanie1.AssemblyInfo.cs
+C:\Users\glowa1337\source\repos\Kacper Głowacki Zadanie1\obj\Debug\netcoreapp3.1\Kacper Głowacki Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\glowa1337\source\repos\Kacper Głowacki Zadanie1\obj\Debug\netcoreapp3.1\Kacper Głowacki Zadanie1.dll
+C:\Users\glowa1337\source\repos\Kacper Głowacki Zadanie1\obj\Debug\netcoreapp3.1\Kacper Głowacki Zadanie1.pdb
+C:\Users\glowa1337\source\repos\Kacper Głowacki Zadanie1\obj\Debug\netcoreapp3.1\Kacper Głowacki Zadanie1.genruntimeconfig.cache

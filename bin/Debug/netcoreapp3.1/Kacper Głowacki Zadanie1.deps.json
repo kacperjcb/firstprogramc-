@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kacper Głowacki Zadanie1/1.0.0": {
+        "runtime": {
+          "Kacper Głowacki Zadanie1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kacper Głowacki Zadanie1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
